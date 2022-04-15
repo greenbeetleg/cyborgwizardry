@@ -1,2 +1,2 @@
-# http://greenbeetleg.github.io
+# https://greenbeetleg.github.io
 greenbeetleg.github.io
